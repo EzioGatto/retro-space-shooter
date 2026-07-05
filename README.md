@@ -1,4 +1,4 @@
-### Retro-space-shooter
+# Retro-space-shooter
 It's a simple and lightweight 2D retro space shooting game that runs in the terminal and written entirely in **C**.This project brings back the nostalgic retro game vibe. With 10 levels and 5 different types of enemies this game is simple but endless. It has no save file option staying true to it's hardcore game vibes. Once closed or quitted the user or rather player loses all progress.
 
 This code is specially written for **Linux/MacOS** so the .c file will not be compiled on a Windows system. Read how to run on Windows.
@@ -38,7 +38,7 @@ This code is specially written for **Linux/MacOS** so the .c file will not be co
  
 This program was written for **Linux/MacOS** specifically because of `termios.h` and `sys/select.h` — these headers **do not exist on Windows**, so it will not compile with a plain Windows C compiler (like MSVC) without changes. 
  
-# The easiest and recomended: Using WSL — Windows Subsystem for Linux
+### The easiest and recomended: Using WSL — Windows Subsystem for Linux
 This runs a real Linux environment inside Windows, so the code compiles completely unmodified.
  
 1. Open **PowerShell as Administrator** and run:
