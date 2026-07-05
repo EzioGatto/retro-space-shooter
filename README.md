@@ -1,4 +1,4 @@
-### retro-space-shooter
+### Retro-space-shooter
 It's a simple and lightweight 2D retro space shooting game that runs in the terminal and written entirely in **C**.This project brings back the nostalgic retro game vibe. With 10 levels and 5 different types of enemies this game is simple but endless. It has no save file option staying true to it's hardcore game vibes. Once closed or quitted the user or rather player loses all progress.
 
 This code is specially written for **Linux/MacOS** so the .c file will not be compiled on a Windows system. Read how to run on Windows.
